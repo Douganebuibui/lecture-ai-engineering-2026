@@ -7,8 +7,8 @@
 - STEP 1 のツールの名前：glossary_search_glossary
 - STEP 2 の [tool call]：glossary_search_glossary({'query': '3レベル'})
 - STEP 3 の [tool call]：fetch_fetch
-- STEP 4 の [tool call]：
-- 気づき・疑問：
+- STEP 4 の [tool call]：aws___search_documentation
+- 気づき・疑問：GitHub（リモート）で行った変更は Codespaces（ローカル）には自動反映されず、git pull で取り込みが必要？
 
 ## 宿題
 
