@@ -16,5 +16,5 @@
 
 - 取り組んだレベル：基礎
 - やったこと：server.tool()(tools.get_lecture_summary)をapp/mcp_server.pyに追加
-- 結果：
+- 結果：[tool call]   get_lecture_summary({'lecture': 2}) が呼ばれる。
 - 気づき・疑問：「モデルが混み合っています（503）。少し待ってから再実行してください。」を連発されてなかなか進められなかった。
